@@ -1,0 +1,7 @@
+C:\Users\w10\OneDrive - IZU\Masaüstü\csharp\MediumCSharpLearning\MediumCSharpLearning\bin\Debug\MediumCSharpLearning.exe.config
+C:\Users\w10\OneDrive - IZU\Masaüstü\csharp\MediumCSharpLearning\MediumCSharpLearning\bin\Debug\MediumCSharpLearning.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\csharp\MediumCSharpLearning\MediumCSharpLearning\bin\Debug\MediumCSharpLearning.pdb
+C:\Users\w10\OneDrive - IZU\Masaüstü\csharp\MediumCSharpLearning\MediumCSharpLearning\obj\Debug\MediumCSharpLearning.csprojAssemblyReference.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\csharp\MediumCSharpLearning\MediumCSharpLearning\obj\Debug\MediumCSharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\w10\OneDrive - IZU\Masaüstü\csharp\MediumCSharpLearning\MediumCSharpLearning\obj\Debug\MediumCSharpLearning.exe
+C:\Users\w10\OneDrive - IZU\Masaüstü\csharp\MediumCSharpLearning\MediumCSharpLearning\obj\Debug\MediumCSharpLearning.pdb
